@@ -13,7 +13,7 @@
 
 // Location of the pixels to click top left
 const X_OFFSET = 716
-const Y_OFFSET = 1862
+const Y_OFFSET = 1844
 
 async function run() {
     let run = false
